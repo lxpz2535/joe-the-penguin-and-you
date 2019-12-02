@@ -9,3 +9,9 @@ I'm learning HTML, CSS, and Javascript with my daughter, and this repository is 
 - Follow the GitHub Hello World tutorial
 - Create a new branch for the intial commit of the story
 - Publish the website on GitHub pages
+
+## Lesson 2:
+- Install Git
+- Learn to use Git and Github from within Visual Studio Code
+- Create our first Javascript function
+- Make more modifications to the story
